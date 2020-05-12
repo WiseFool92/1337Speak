@@ -34,7 +34,7 @@ git clone {link to repository}
 ```
 4. If you downloaded the zip then extract all onto your desktop
 5. Open the folder with VSC or an equivalent
-6. Download .NET Core Sdk 3.1 & Run _dotnet -- version_ in the terminal to confirm installation
+6. Download .NET Core Sdk 2.2 & Run _dotnet -- version_ in the terminal to confirm installation
 7. In the terminal Run _dotnet tool install -g dotnet-script_
 8. Open project & Run _dotnet run_
 9. Enjoy
